@@ -2,7 +2,9 @@
 
 References:
 >https://nuxt.com/docs/guide/directory-structure/server
+
 >https://jamiecurnow.medium.com/nuxt-3-server-routes-and-typescript-4fa361d738a3
+
 >https://masteringnuxt.com/blog/server-routes-in-nuxt-3
 
 This is a implementation using the pokemon api masking the api call using server routes.

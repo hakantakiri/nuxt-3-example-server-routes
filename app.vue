@@ -1,6 +1,6 @@
 <template>
    <div>
-    <input v-model="pokemonName" placeholder="Enter Pokémon name" />
+    <input v-model="pokemonName" placeholder="Enter a Pokémon name" />
     <button @click="fetchPokemon">Get Pokémon</button>
     <div v-if="pokemon">
       <h2>{{ pokemon.name }}</h2>
